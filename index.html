@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!-- Google Fonts Icons -->
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@48,400,0,0" />
+        <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css'
+         rel="stylesheet"/>
+        <!-- CSS -->
+        <link rel="stylesheet" href="assets/css/style.css" />
+        <link rel="stylesheet" href="assets/css/swiper.css" />
+
+        <!-- JavaScript -->
+        <script src="assets/js/swiper.js"></script>
+        <script src="assets/js/scrollReveal.js"></script>
+        <script src="assets/js/script.js" defer type="module"></script>
+        <title>Like A Star</title>
+
+    </head>
+    <body>
+
+        
+  <div class="notification-toast" data-toast>
+
+    <button class="toast-close-btn" data-toast-close>
+      <ion-icon name="close-outline"></ion-icon>
+    </button>
+
+    <div class="toast-banner">
+      <img src="./assets/images/img11.JPG" alt="Rose Gold Earrings" width="80" height="70">
+    </div>
+
+    <div class="toast-detail">
+
+      <p class="toast-message">
+        Someone in new just bought
+      </p>
+
+      <p class="toast-title">
+        Rose Gold Earrings
+      </p>
+
+      <p class="toast-meta">
+        <time datetime="PT2M">2 Minutes</time> ago
+      </p>
+
+    </div>
+
+  </div>
+
+        <!-- ============= Header ============= -->
+       
+        <header class="header">
+            <nav class="header__container container">
+                <div class="header__logo">
+                    <h1><a href="./"><img src="./assets/images/Logo.png" alt="home1" ></a></h1>
+                </div>
+                <ul class="header__links">
+                    <li class="header__link">
+                        <a href="#home" class="active">acceuil</a>
+                    </li>
+                    <li class="header__link">
+                        <a href="#new">nouvel arrivage</a>
+                    </li>
+                    <li class="header__link">
+                        <a href="#shop">shop</a>
+                    </li>
+                    <li class="header__link">
+                        <a href="#trending">nouveautés</a>
+                    </li>
+
+                  
+                </ul>
+
+                </div>
+            </div>
+           
+                <div class="header__btn">
+                    <span style="--i: 0"></span>
+                    <span style="--i: 10"></span>
+                    <span style="--i: 20"></span>
+                </div>
+                
+               
+                </div>
+                <div id="cart-icon" > 
+                    <i class="bx bx-shopping-bag" ></i>
+                    <span class="quantity">0</span>
+                </div>
+                <!-- Checkout -->
+                 <div class="listProduct">
+
+                 </div>
+                 <div class="cart">
+                    <h2>
+                        CART
+                    </h2>
+            
+                    <div class="listCart">
+            
+            
+                        <div class="item">
+                            <img src="./assets/images/img11.JPG">
+                            <div class="content">
+                                <div class="title">CoPilot / Black </div>
+                                <div class="price">$550 / 1 product</div>
+                            </div>
+                            <div class="quantity">
+                                <button>-</button>
+                                <span class="value">3</span>
+                                <button>+</button>
+                            </div>
+                        </div>
+                        <div class="buttons">
+                            <div class="close">
+                                CLOSE
+                            </div>
+                            <div class="checkout">
+                                <a href="checkout.html">CHECKOUT</a>
+                            </div>
+                        </div>
+            
+                    </div>
+                </div>
+            </nav>
+        
+           
+           <!-- End checkout -->
+        </header>
+        
+      
+        
+
+        <!-- ============= Home Section ============= -->
+
+        <section class="section home" id="home">
+            <div class="home__content swiper">
+                <div class="swiper-wrapper">
+                    <div class="home__slide swiper-slide">
+                        <div class="home__image">
+                            <img src="./assets/images/img11.jpg" alt="home1" />
+                        </div>
+                        <div class="home__description">
+                            <p class="home__sub-heading">nouvelle collection</p>
+                            <h1 class="home__heading">design impressionnant</h1>
+                        </div>
+                    </div>
+                    <div class="home__slide swiper-slide">
+                        <div class="home__image">
+                            <img src="./assets/images/img22.png" alt="home2" />
+                        </div>
+                        <div class="home__description">
+                            <p class="home__sub-heading">50% de réduction</p>
+                            <h1 class="home__heading">design moderne</h1>
+                        </div>
+                    </div>
+                    <div class="home__slide swiper-slide">
+                        <div class="home__image">
+                            <img src="./assets/images/img33.png" alt="home3" />
+                        </div>
+                        <div class="home__description">
+                            <p class="home__sub-heading">nouvelle collection </p>
+                            <h1 class="home__heading">unique design</h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a href="#shop" class="home__btn btn shop-btn">Commander</a>
+            <a href="#trending" class="home__btn btn go-down-btn">
+                <span class="material-symbols-rounded icon">arrow_downward</span>
+                <p class="circle-text">Nouveautés </p>
+            </a>
+
+           
+        </section>
+
+        <!-- ============= New Section ============= -->
+
+        <section class="section new" id="new">
+            <div class="section__title">
+                <h1>Nouvel arrivage</h1>
+            </div>
+            <div class="new__container container">
+                <div class="new__btns swiper-btns">
+                    <button class="swiper-btn swiper-button-prev btn btn-border btn-border-black" id="arrow-left">
+                        <span class="material-symbols-rounded"> arrow_back_ios_new </span>
+                    </button>
+                    <button class="swiper-btn swiper-button-next btn btn-border btn-border-black" id="arrow-right">
+                        <span class="material-symbols-rounded"> arrow_forward_ios </span>
+                    </button>
+                </div>
+                <div class="new__content swiper">
+                    <div class="new__products products swiper-wrapper"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ============= Shop Section ============= -->
+
+        <section class="section shop" id="shop">
+            <div class="section__title">
+                <h1>shop</h1>
+            </div>
+            <div class="shop__container container">
+                <div class="shop__content">
+                    <div class="shop__categories">
+                        <button class="shop__category btn btn-border btn-border-black selected" data-category="all">all</button>
+                        <button class="shop__category btn btn-border btn-border-black" data-category="men">Kids</button>
+                        <button class="shop__category btn btn-border btn-border-black" data-category="women">women</button>
+                    </div>
+                    <div class="shop__products products"></div>
+                </div>
+            </div>
+            
+        </section>
+
+        <!-- ============= Brands Section ============= -->
+
+    
+        <!-- ============= Trending Section ============= -->
+
+        <section class="section trending" id="trending">
+            <div class="section__title">
+                <h1>Nouveautés</h1>
+            </div>
+            <div class="trending__container container">
+                <div class="trending__content swiper">
+                    <div class="trending__products swiper-wrapper"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ============= Subscribe Section ============= -->
+
+        <section class="section subscribe">
+            <div class="section__title">
+                <h1>TEAM STAR</h1>
+            </div>
+            <div class="subscribe__container container">
+                <div class="subscribe__text">
+                    <p>Rejoignez les Stars pour ne rater aucune occasion</p>
+                </div>
+                <form class="form" autocomplete="off">
+
+                    <button type="submit" class="form__btn btn btn-border btn-border-white"><a href="https://chat.whatsapp.com/JCrNawzOn1p4DVaOjV6xkk" target="_blank">Rejoignez-nous</button></a>
+                </form>
+            </div>
+        </section>
+        <!-- ============= Footer ============= -->
+
+       
+        <!-- ============= Footer ============= -->
+
+        <footer class="footer">
+            <div class="footer__container container">
+                <div class="footer__col">
+                    <div class="footer__logo">
+                        <h1>
+                            <a href="./">Star</a>
+                        </h1>
+                    </div>
+                    <div class="footer__description">
+                        <p>Laissez-vous séduire par notre sélection de produits sur mesure de qualité exceptionnelle et conçu avec amour❤️ </p>
+                    </div>
+                </div>
+                <div class="footer__col">
+                    <div class="footer__title">
+                        <h3>company</h3>
+                        <ul class="footer__links">
+                            <li class="footer__link"><a href="#home">Acceuil</a></li>
+                            <li class="footer__link"><a href="#new">Nouvel Arrivage</a></li>
+                            <li class="footer__link"><a href="#shop">Shop</a></li>
+                            <li class="footer__link"><a href="#trending">Nouveautés</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="footer__col">
+                    <div class="footer__title">
+                        <h3>information</h3>
+                        <ul class="footer__links">
+                            <li class="footer__link">
+                                <a href="#">
+                                    <span class="material-symbols-rounded"> location_on </span>
+                                    <p> Mbour</p>
+                                </a>
+                            </li>
+                         
+                            <li class="footer__link">
+                                <a href="tel:+12334567775">
+                                    <span class="material-symbols-rounded"> call </span>
+                                    <p>+221 76 942 05 68</p>
+                                </a>
+                            </li>
+                            <li class="footer__link">
+                                <a href="mailto:shopy@gmail.com">
+                                    <span class="material-symbols-rounded"> mail </span>
+                                    <p>shoplikeastar1@gmail.com</p>
+                                </a>
+                            </li>
+
+                           
+                        </ul>
+                    </div>
+                </div>
+                <div class="footer__col">
+                    <div class="footer__title">
+                        <h3>Réseaux sociaux</h3>
+                    </div>
+                    <ul class="footer__links">
+                        <li class="footer__link"><a href="https://www.instagram.com/shopl.ikeastar?igsh=cDl1Y3kybDVwbnQz&utm_source=qr" target="_blank">Instagram</a></li>
+                        <li class="footer__link"><a href="https://www.facebook.com/shoplikeastar?mibextid=LQQJ4d" target="_blank">Facebook</a></li>
+                        <li class="footer__link"><a href="https://www.tiktok.com/@star77209?_t=8kM5g6gXvgu&_r=1" target="_blank" >Tiktok</a></li>
+                        <li class="footer__link"><a href="https://x.com/shop_likeastar?s=11" target="_blank" >Twitter</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer__copyRight">
+                <p>&copy; 2023 <span>CodingWeb</span> All Rights Reserved</p>
+            </div>
+        </footer>
+
+        <!-- ============= Scroll UP ============= -->
+       
+        <button class="scroll-up btn btn-border btn-border-black"> <a href="https://api.whatsapp.com/send/?phone=221769420568" target="_blank"><img src="assets/images/whatsapp.png" alt="Whatsapp"> </a></button>
+    
+    </body>
+</html>

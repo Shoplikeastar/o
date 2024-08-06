@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "title": "the north face jacket",
+        "trendTitle": "Lorem ipsum dolor",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+        "price": 309.99,
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigR83E_oXpXXMXqDhpyn2JDYvGRsSqfv4_fvBfj7oyR2KCP9-8d6305Y5mFVN344-_NUzFLgWRnXlh51JfpHNJjsaKVKzufIxVRdL14zxJANguVvlniicCkQ_0eTIkWYzu4JJNAA_mC2b3zkT3p3YZjL1d93JOzLrl6oG58Y7GRS7ZtZQAd-DXiFP9PKXf/s320/img1.png",
+        "isNew": true,
+        "isTrending": false,
+        "category": "men"
+    },
+    {
+        "id": 2,
+        "title": "brown coat",
+        "trendTitle": "Lorem ipsum dolor",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+        "price": 449.99,
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD7BJ2wIoAdsRlMJosOaHUUWo_yJP-YHU9s1fly5GZ2o7ymlV4n8kR0ZZGWzZzi5aBSadz3VVBbEPGQiZBVH8w_a5iEvR4n-qGpGLZnf8yL_-LhfUlP9ebuSwv3xzSQQ02dkss9MYeDGw0C12MlKwjEicX8JDLkyVv7b8k_XOcTeu9EyBpf3HaXjvFS-b_/s320/img2.png",
+        "isNew": true,
+        "isTrending": false,
+        "category": "women"
+    },
+    {
+        "id": 3,
+        "title": "black hoodie",
+        "trendTitle": "Lorem ipsum dolor",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+        "price": 175.5,
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiklhWtmATojRjH1lHup_TT1vFElqMBThyphenhyphenq77Y9eDe29Jjkd-cScGbKsYAXq38XHXBlCfFFXnrC_ojQN_m9ezW-dXXw4gsprFHkp8TTtu6UgbDg8xtBm16hwQMDbbS20wTso8xYymxnMZxTBVoRozc30m_9xvZi-iHPStjwnSpK_sjfVF6s0Wl2Fgg49Bx/s320/img3.png",
+        "isNew": true,
+        "isTrending": false,
+        "category": "women"
+    },
+    {
+        "id": 4,
+        "title": "scarf and coat",
+        "trendTitle": "Lorem ipsum dolor",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+        "price": 799.99,
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpYW49m8LI_UYfFXFwif96sGtQJoX4fq2Pg25JSfKqwaCH9AytqBZ_Sw_P1A0iGXAjm2Ih9pLjWq29PEg9xqBMmnjVusKbl6R3-GiTOMOuuzKwNpEqjndojKv5Iwcq063NJngAgvzekRn7a9JGnJFvVkmHfOXGUUHKN8qlEUzdT1-dbXruInPrhp1yqg6O/s320/img4.png",
+        "isNew": true,
+        "isTrending": false,
+        "category": "men"
+    },
+    {
+        "id": 5,
+        "title": "white cap",
+        "trendTitle": "Lorem ipsum dolor",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+        "price": 29.99,
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtpGLyYmoiu2BKc4fqoxa__17v-F3omKQpj17vNuHcQeBWOJOQbn63Y-D5BZM99hx64zaKjfYqB84qMepwBHjo2YPoHDuyi5HXtyJ9sbdldxJ9XKr0H2AF57DJXKrUYWAadAdeQOYPfGSgxCEWWzdBpUwsCnm487chGj0m4ZdG0AvxkYloCN6le588AUdP/s320/img5.png",
+        "isNew": false,
+        "isTrending": false,
+        "category": "men"
+    },
+    {
+        "id": 6,
+        "title": "red nike sneakers",
+        "trendTitle": "Lorem ipsum dolor",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+        "price": 179.99,
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJR01_MspECj0iha9pqPnRjBFKcDvu7PJqOrmR4e0a1-oFl_imqe4g5djSGQ9NEIdM2rTEP6spdyudZkCjRqAP6AR1ZU6ERIIdmvsmVlhAo9ZsFbEYdlxUtXE_UhTC9ICAvX2QqjC1zzUetP2GH0KxX73w_1bsQY0Wyv5CQ-jP9cLd5CyHmjr5EQKsxX0s/s320/img6.png",
+        "isNew": true,
+        "isTrending": false,
+        "category": "men"
+    },
+    {
+        "id": 7,
+        "title": "black oversized t-shirt",
+        "trendTitle": "Lorem ipsum dolor",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+        "price": 79.99,
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkDF91PL70Xx3q3uVLd9LcVpgufYyvnWnt9ia0O7MSd9avPWwEazq5CXst7XW-K9dv20shsdIUVfGCbzLeK6emglhtAV_sdXrovDTskOvkTlNTMxsUi5-2aT2LHGy5andDN8ujNcHAeeXDu2eKgWM1V56kLAl3H4YcQLkL4N9Vx8I6AjmdU9TW4tV3hlND/s320/img12.png",
+        "isNew": false,
+        "isTrending": false,
+        "category": "men"
+    },
+    {
+        "id": 8,
+        "title": "louis vuitton hand bag",
+        "trendTitle": "Lorem ipsum dolor",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+        "price": 939.99,
+        "image": "./assets/images/product8.png",
+        "isNew": true,
+        "isTrending": false,
+        "category": "women"
+    },
+    {
+        "id": 9,
+        "title": "light yellow hoodie",
+        "trendTitle": "best trending hoodie",
+        "description": "This product is one of our best selling and popular prodcut; Because of its elegance and the beauty of its design, we advise you to buy it quickly before it runs out of stock.",
+        "price": 145.0,
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbZH0ZT-K-c146Z5ryT22hwJB7EllmL4tOSvrvYyGVD1YxL5PbBxt0F80gOhSrXx0y7OHG62RPD4vUmiQ49O-9cspkvwa6-2nerBvpddecoBOnSEALv8JrPBT4-5CiYDW78Hk-3SyjhxB4Y3mFCXxXcN_L98VExJpwGFrlQrUGrvwvx_k8imTupn-ME6Xc/s320/img8.png",
+        "isNew": false,
+        "isTrending": true,
+        "category": "men"
+    },
+    {
+        "id": 10,
+        "title": "girl outfit",
+        "trendTitle": "most popular outfit",
+        "description": "We present to you our most popular product, as it has received many requests recently; Because of its quality and workmanship, we advise you to quickly purchase the product before the stock runs out.",
+        "price": 839.99,
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJk1RZnBy9bOnu2FaWACvoyrT1S90_hnhTYjVnCXR_qZyd_zTlLslcglIpN4Hbz0WQ-8IhBzooHPQgvMeFM_KDWlieyB7xHnLaDGz1Y-pnzLqY_cW-zAXfprvNRs7ulQsyCf3f5urUfQwEGEN1U6wetHIdD9zv5oLbFS7Lz04EbJnpyyUsfADFvSwh2hyphenhyphenW/s320/img9.png",
+        "isNew": false,
+        "isTrending": true,
+        "category": "women"
+    },
+    {
+        "id": 11,
+        "title": "men uniforms",
+        "trendTitle": "Lorem ipsum dolor",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+        "price": 1199.99,
+        "image": "./assets/images/img10.png",
+        "isNew": false,
+        "isTrending": false,
+        "category": "men"
+    },
+    {
+        "id": 12,
+        "title": "black jacket",
+        "trendTitle": "unique awesome jacket",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+        "price": 499.99,
+        "image": "./assets/images/img16.png",
+        "image2": "./assets/images/img16.png",
+        "isNew": true,
+        "isTrending": true,
+        "category": "women"
+    },
+    {
+        "id": 13,
+        "title": "women coat and pants",
+        "trendTitle": "Lorem ipsum dolor",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+        "price": 1499.99,
+        "image": "./assets/images/img21.png",
+        "image2": "./assets/images/img21.png",
+        "isNew": true,
+        "isTrending": false,
+        "category": "women"
+    },
+    {
+        "id": 14,
+        "title": "fully jeans outfit",
+        "trendTitle": "Lorem ipsum dolor",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+        "price": 900.0,
+        "image": "./assets/images/img18.png",
+        "image2": "./assets/images/img18.png",
+        "isNew": true,
+        "isTrending": false,
+        "category": "men"
+    }
+]
+
+
+
