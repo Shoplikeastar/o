@@ -22,7 +22,7 @@ function ProductCard({ id, title, price, image, image2, category }) {
 }
 
 export default ProductCard;
-<i class="bx bx-shopping-bag add-cart"> Panier </i>
+//<i class="bx bx-shopping-bag add-cart"> Panier </i>
 // {/* <a href="https://api.whatsapp.com/send/?phone=221773885765"> 
 // <button class="explore-more btn"> <img src="./assets/images/whatsapp.png" alt="home1" >
 // <span class="material-symbols-rounded">trending_flat</span>
